@@ -8,7 +8,7 @@
 		
   <div class="about">
       <figure class="profile">
-      <img src="张韬.jpg">
+      <img src="zhangtao.jpg">
     </figure>
     <p class="description">   
      School of Mathematics and Information Science <br>
