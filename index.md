@@ -1,37 +1,301 @@
-## Welcome to GitHub Pages
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-You can use the [editor on GitHub](https://github.com/zhant220/homepage.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Tao Zhang (张韬) Associate Professor
+	
+		
+  <div class="about">
+      <figure class="profile">
+      <img src="张韬.jpg">
+    </figure>
+    <p class="description">   
+     School of Mathematics and Information Science <br>
+     Guangzhou University
+    </p>
+   <h2> Research Interests</h2>
+    <p>
+     <h4> Extremal graph theory, discrete geometry, coding theory and design</h4><br>
+      A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
+    </p>
+	
+<h2>Professional Experiences</h2>
+    <p>
+    Guangzhou University, 2017.7-present <br>
+	    Associate Professor
+    </p>
+    <h2>Education</h2>
+	 <p>
+    Zhejiang University， 2012.9-2017.6 <br>
+	   Ph.D. in Mathematics (Advisor: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Prof. Gennian Ge</a>)
+    </p>
+    <p>
+      Soochow University， 2004.9--2008.6<br>
+     B.S. in Mathematics
+    </p>
+    
+    
+   <h2>Honours and Awards</h2>
+    <p>
+   <h4>2019 The Honorable Mention of Doctor thesis for New World Mathematics Awards</h4>
+    </p>
+	 <p>
+    <h4>2018 The Excellent Doctor Dissertations of Zhejiang Province</h4>
+    </p>
+    <p>
+      <h4>2018 The Nomination Award for Excellent Doctor Dissertations of Zhejiang University</h4>
+    </p>
+     <p>
+      <h4>2015 Scholarship for Doctoral Student by State Key Laboratory of Information Security</h4>
+    </p>
+     <p>
+     <h4>2015 National Scholarship for Outstanding Doctoral Student by the Ministry of Education in China</h4>
+    </p>
+    
+	
+<h2>Publications</h2>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div class="items">      
+        <article class="item">   
+<h4>Some New Results on Splitter Sets</h4>
+    <span>
+      (with  
+	    Zuo ye,
+	    <a href="http://staff.ustc.edu.cn/~drzhangx/" target="_blank">Xiande Zhang</a>,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2020+   Some New Results on Splitter Sets (Online).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhant220/homepage.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<div class="items">      
+        <article class="item">   
+ <h4>On the nonexistence of lattice tilings of Z^n by Lee spheres</h4> 
+    <span>
+      (with  					 
+       Yue Zhou</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Journal of combinatorial theory, series A <span><a href="2019-07 On the nonexistence of lattice tilings of Z^n by Lee spheres (JCTA).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+ <h4>On the Nonexistence of Perfect Splitter Sets</h4> 
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2018-10 On the Nonexistence of Perfect Splitter Sets (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+ <h4>Splitter Sets and k -Radius Sequences</h4> 
+    <span>
+      (with  
+	<a href="http://staff.ustc.edu.cn/~drzhangx/" target="_blank">Xiande Zhang</a>    
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2017-12 Splitter Sets and k -Radius Sequences (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+  <h4>Perfect and Quasi-Perfect Codes Under the lp Metric </h4>  
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2017-07 Perfect and Quasi-Perfect Codes Under the lp Metric (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+ <h4>Quantum Codes Derived From Certain Classes of Polynomials </h4> 
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2016-11 Quantum Codes Derived From Certain Classes of Polynomials (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
+<h4>New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory </h4>  
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2016-08 New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+<div class="items">      
+        <article class="item">   
+<h4>Some New Classes of Quantum MDS Codes From Constacyclic Codes</h4>  
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2015-09 Some New Classes of Quantum MDS Codes From Constacyclic Codes (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+<div class="items">      
+        <article class="item">   
+ <h4>Fourth Power Residue Double Circulant Self-Dual Codes </h4>
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2015-08 Fourth Power Residue Double Circulant Self-Dual Codes (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+
+
+ <div class="items">      
+        <article class="item">   
+ <h4> Some new results on the cross correlation of m sequences</h4>
+    <span>
+      (with  
+        <a href="https://www.researchgate.net/profile/Shuxing_Li4" target="_blank">Shuxing Li</a>,
+        <a href="https://person.zju.edu.cn/tfeng" target="_blank">Tao Feng</a>,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+  Published in:  IEEE Transcations on Information theory   <span><a href="2014-05 some new results on the cross correlation of m sequences (IT).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+
+  </p>
+</article>
+
+
+
+<h2>Talks</h2>
+<h4>Lattice tiling by two different shapes.</h4>
+ <p>The Sixth International Symposium on Coding Theory, Cryptography and Combinatorics, Hubei, May, 2019. <h4>(Plenary talk)</h4></p>
+ 
+ <h4>On the nonexistence of linear perfect Lee code</h4>
+ <p>The fifth Sino-Korea International Conference on Coding theory and Its related Topics, Shanghai, July, 2018. <h4>(Invited talk)</h4> </p>
+ 
+ 
+<h2>Contact Information</h2>
+    <p>
+      <strong>Email:</strong> zhant220@163.com<br>
+      
