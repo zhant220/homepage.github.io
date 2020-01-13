@@ -8,7 +8,7 @@
 		
   <div class="about">
       <figure class="profile">
-      <img src="viewphoto.jpg">
+      <img src="taozhang.jpg">
     </figure>
     <p class="description">   
      School of Mathematics and Information Science <br>
