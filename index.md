@@ -22,7 +22,10 @@
 	
 <h2>Professional Experiences</h2>
     <p>
-    Guangzhou University, 2017.7-present <br>
+    TBD, 2022.8- <br>
+    </p>
+    <p>
+    Guangzhou University, 2017.7-2022.7 <br>
 	    Associate Professor
     </p>
     <h2>Education</h2>
@@ -56,6 +59,23 @@
 	
 <h2>Publications</h2>
 
+<div class="items">      
+        <article class="item">   
+<h4>Some tight lower bounds for Turan problems via constructions of multi-hypergraphs</h4>
+    <span>
+      (with  
+	    Zixiang Xu,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
 
 <div class="items">      
         <article class="item">   
