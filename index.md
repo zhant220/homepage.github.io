@@ -22,7 +22,7 @@
 	
 <h2>Professional Experiences</h2>
     <p>
-    Guangzhou University, 2017.7-present <br>
+    Guangzhou University, 2017.7-2020.7 <br>
 	    Associate Professor
     </p>
     <h2>Education</h2>
